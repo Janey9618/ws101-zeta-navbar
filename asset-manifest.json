@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-zeta-navbar/static/css/main.ad522f60.css",
+    "main.js": "/ws101-zeta-navbar/static/js/main.c14fa82b.js",
+    "index.html": "/ws101-zeta-navbar/index.html",
+    "main.ad522f60.css.map": "/ws101-zeta-navbar/static/css/main.ad522f60.css.map",
+    "main.c14fa82b.js.map": "/ws101-zeta-navbar/static/js/main.c14fa82b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad522f60.css",
+    "static/js/main.c14fa82b.js"
+  ]
+}
